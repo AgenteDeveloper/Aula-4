@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    margin-left: 500px;
+    margin-right: 500px;
+    width: fit-content;
+}
+
+
+a{
+    text-decoration: none;
+    width: 700px;
+    height: 600px;
+    color: antiquewhite;
+    
+}
+
+nav :visited{
+    text-decoration: none;
+    color: yellow;
+}
+
+nav :hover{
+    text-decoration: none;
+    color: rgb(20, 102, 139);
+
+
+}
+
+
+body{
+    background-color: rgb(34, 44, 66);
+}
+
+h3{
+    color: rgb(240, 218, 94);
+    margin-left: 600px;
+    margin-right: auto;
+   
+    
+}
+
+
+h2{
+    
+    color: white;
+    width: fit-content;
+}
+p{
+    color: rgb(5, 4, 4);
+    font-family: Helvetica;
+}
+
+section{
+    width: 390px;
+    height: 350px;
+    background-color: coral;
+    margin-top: 100px;
+    margin-left: 480px;
+    border-radius: 8px;
+    text-align: center;
+    
+    
+}
