@@ -6,9 +6,7 @@
 
 nav{
     margin-left: 500px;
-    margin-right: 500px;
-   
-    
+    margin-right: 500px;   
 }
 
 a{
@@ -34,9 +32,6 @@ nav :hover{
 body{
     background-color: rgb(34, 44, 66);
 }
-
-
-
 
 img{
     margin-left: 400px;
