@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    margin-left: 500px;
+    margin-right: 500px;
+   
+    
+}
+
+a{
+    text-decoration: none;
+    width: 700px;
+    height: 600px;
+    color: antiquewhite;
+    
+}
+
+
+
+}
+
+nav :visited{
+    text-decoration: none;
+    color: yellow;
+}
+
+body{
+    background-color: rgb(34, 44, 66);
+}
+
+
+
+
+img{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+h2{
+    
+    color: white;
+    width: fit-content;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+#Titulo{
+    color: rgb(247, 83, 8);
+    margin-left: 600px;
+    margin-right: auto;
+    margin-top: auto;
+}
+p{
+    color: white;
+    font-family: Helvetica;
+    width: fit-content;
+    margin-left: 530px;
+    margin-top: 10px;
+}
+
+audio{
+    align-content: center;
+    margin-left: 500px;
+}
