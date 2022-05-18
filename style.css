@@ -19,13 +19,16 @@ a{
     
 }
 
-
-
-}
-
 nav :visited{
     text-decoration: none;
-    color: yellow;
+    color: rgb(223, 223, 2);
+}
+
+nav :hover{
+    text-decoration: none;
+    color: rgb(20, 102, 139);
+
+
 }
 
 body{
@@ -65,4 +68,17 @@ p{
 audio{
     align-content: center;
     margin-left: 500px;
+}
+
+iframe{
+    margin-left: 470px;
+    margin-right: 400px;
+}
+
+h3{
+    
+    color: white;
+    width: fit-content;
+    margin-left: 500px;
+    margin-top: 30px;
 }
